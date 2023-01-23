@@ -1,0 +1,10 @@
+$ORIGIN RPZ.LOCAL.
+
+*.analytics.console.aws.a2z.com CNAME rpz-passthru.
+analytics.console.aws.a2z.com CNAME rpz-passthru.
+
+*.awstrack.me CNAME rpz-passthru.
+awstrack.me CNAME rpz-passthru.
+
+*.newrelic.com CNAME rpz-passthru.
+newrelic.com CNAME rpz-passthru.
