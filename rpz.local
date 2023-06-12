@@ -8,3 +8,6 @@ awstrack.me CNAME rpz-passthru.
 
 *.newrelic.com CNAME rpz-passthru.
 newrelic.com CNAME rpz-passthru.
+
+*.reddit.com CNAME .
+reddit.com CNAME .
