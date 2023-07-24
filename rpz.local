@@ -14,3 +14,9 @@ reddit.com CNAME .
 
 *.redd.it CNAME .
 redd.it CNAME .
+
+*.twitter.com CNAME .
+twitter.com CNAME .
+
+*.x.com CNAME .
+x.com CNAME .
