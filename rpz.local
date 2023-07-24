@@ -9,7 +9,7 @@ awstrack.me CNAME rpz-passthru.
 *.newrelic.com CNAME rpz-passthru.
 newrelic.com CNAME rpz-passthru.
 
-# Reddit
+;Reddit
 *.redd.it CNAME .
 redd.it CNAME .
 *.reddit-stream.com CNAME .
@@ -25,7 +25,7 @@ redditstatic.com CNAME .
 *.reddituploads.com CNAME .
 reddituploads.com CNAME .
 
-# Twitter
+;Twitter
 *.twitter.com CNAME .
 twitter.com CNAME .
 *.x.com CNAME .
@@ -37,7 +37,7 @@ t.co CNAME .
 *.ads-twitter.com CNAME .
 ads-twitter.com CNAME .
 
-# Facebook
+;Facebook
 *.cdninstagram.com CNAME .
 cdninstagram.com CNAME .
 *.facebook.be CNAME .
