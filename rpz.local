@@ -34,8 +34,6 @@ x.com CNAME .
 twimg.com CNAME .
 *.t.co CNAME .
 t.co CNAME .
-*.ads-twitter.com CNAME .
-ads-twitter.com CNAME .
 
 ;Facebook
 *.cdninstagram.com CNAME .
