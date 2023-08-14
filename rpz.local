@@ -100,3 +100,6 @@ threads.net CNAME .
 whatsapp.com CNAME .
 *.whatsapp.net CNAME .
 whatsapp.net CNAME .
+
+; Tailscale
+log.tailscale.com CNAME .
