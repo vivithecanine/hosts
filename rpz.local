@@ -1,5 +1,6 @@
 $ORIGIN RPZ.LOCAL.
 
+;Permit
 *.analytics.console.aws.a2z.com CNAME rpz-passthru.
 analytics.console.aws.a2z.com CNAME rpz-passthru.
 
@@ -101,5 +102,5 @@ whatsapp.com CNAME .
 *.whatsapp.net CNAME .
 whatsapp.net CNAME .
 
-; Tailscale
+;Tailscale
 log.tailscale.com CNAME .
