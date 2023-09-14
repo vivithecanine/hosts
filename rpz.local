@@ -104,3 +104,7 @@ whatsapp.net CNAME .
 
 ;Tailscale
 log.tailscale.com CNAME .
+
+;Unity
+pls.prd.mz.internal.unity3d.com
+sdk-diagnostics.prd.mz.internal.unity3d.com
