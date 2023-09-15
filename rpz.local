@@ -10,9 +10,6 @@ analytics.console.aws.a2z.com CNAME rpz-passthru.
 *.awstrack.me CNAME rpz-passthru.
 awstrack.me CNAME rpz-passthru.
 
-*.newrelic.com CNAME rpz-passthru.
-newrelic.com CNAME rpz-passthru.
-
 ;Reddit
 *.redd.it CNAME .
 redd.it CNAME .
