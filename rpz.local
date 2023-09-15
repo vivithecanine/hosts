@@ -1,4 +1,5 @@
 $ORIGIN RPZ.LOCAL.
+$TTL 30
 
 ;Permit
 *.analytics.console.aws.a2z.com CNAME rpz-passthru.
