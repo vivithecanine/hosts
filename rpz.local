@@ -1,6 +1,6 @@
 $ORIGIN RPZ.LOCAL.
 $TTL 30
-@ SOA rpz.local. derp.rpz.local. 2309150000 300 1800 604800 30
+@ SOA rpz.local. derp.rpz.local. 2309150001 300 1800 604800 30
  NS localhost.
 
 ;Permit
