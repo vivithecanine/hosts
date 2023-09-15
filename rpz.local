@@ -106,5 +106,11 @@ log.tailscale.com CNAME .
 ;Unity
 *.unity3d.com CNAME .
 unity3d.com CNAME .
+
+;Additional Trackers
+*.redshell.io CNAME .
+redshell.io CNAME .
+*.treasuredata.com CNAME .
+treasuredata.com CNAME .
 *.unity.com CNAME .
 unity.com CNAME .
