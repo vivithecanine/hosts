@@ -1,6 +1,10 @@
 $ORIGIN RPZ.LOCAL.
 $TTL 30
 
+$TTL 30
+@ SOA rpz.local. derp.rpz.local. 2309150000 300 1800 604800 30
+ NS localhost.
+
 ;Permit
 *.analytics.console.aws.a2z.com CNAME rpz-passthru.
 analytics.console.aws.a2z.com CNAME rpz-passthru.
