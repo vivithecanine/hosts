@@ -91,6 +91,7 @@ whatsapp.com CNAME .
 whatsapp.net CNAME .
 
 ;Tailscale
+controlplane.tailscale.com CNAME .
 log.tailscale.com CNAME .
 
 ;Unity
