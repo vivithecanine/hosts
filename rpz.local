@@ -101,6 +101,7 @@ whatsapp.com CNAME .
 whatsapp.net CNAME .
 
 ;Tailscale
+pkgs.tailscale.com CNAME rpz-passthru.
 *.tailscale.com CNAME .
 tailscale.com CNAME .
 *.ts.net CNAME .
